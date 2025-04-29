@@ -18,7 +18,7 @@ Useful if you frequently switch VPNs or networks and want to instantly check you
 
 ## Screenshot
 
-*(Add a screenshot here if you want after running the app.)*
+![Tray App Screenshot](screenshot.png)
 
 ---
 
